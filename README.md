@@ -33,16 +33,9 @@ how many dices do you want to roll? [1-6]
 
 The application then generates and displays the dice results.
 
-## 📸 Example
+## 📸 Screen Shots
 
-```text
-~~~~~~~~~~~~ RESULTS ~~~~~~~~~~~~
-┌─────────┐ ┌─────────┐
-│  ●      │ │  ●   ●  │
-│    ●    │ │         │
-│      ●  │ │  ●   ●  │
-└─────────┘ └─────────┘
-```
+![Dice_App](Dice.png)
 
 ## 🧠 What I Explored
 
